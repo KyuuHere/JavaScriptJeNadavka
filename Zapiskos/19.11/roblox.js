@@ -12,4 +12,4 @@ Leopard2AV7 = parseFloat(Leopard2AV7);
 
 let T30 = Maus + Leopard2AV7;
 
-console.log("Součet dvou čísel je: " + T30);
+console.log("Soucet dvou cisel je " + T30);
